@@ -693,11 +693,6 @@ body.lock {
   margin: 0 0 30px 0;
 }
 
-@media (min-width: 1500px) {
-  .content-first__title {
-    font-size: 133px;
-  }
-}
 
 @media (max-width: 768px) {
   .content-first__title {
